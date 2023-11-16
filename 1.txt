@@ -1,0 +1,9 @@
+1. Snake Case: Variable names should generally use lowercase letters with underscores to separate words. For example: my_variable, user_name.
+
+2. Descriptive Names: Variable names should be descriptive, indicating their purpose or meaning in the code. This enhances code readability and understanding.
+
+3. Avoiding Reserved Words: Variables should not use Python's reserved words (keywords) like if, else, for, etc., as these have predefined meanings in Python.
+
+4. Start with a Letter or Underscore: Variable names must start with a letter (a-z, A-Z) or an underscore (_). They can't start with a number or special characters.
+
+5. Case Sensitivity: Python is case-sensitive, so my_variable and My_Variable would be considered different variables.

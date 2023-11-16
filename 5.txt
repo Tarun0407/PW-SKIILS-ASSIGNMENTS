@@ -1,0 +1,10 @@
+
+In Python, variables are dynamically typed, which means that you can change the type of a variable during runtime. Additionally, Python is also dynamically scoped, meaning the scope of a variable is determined at runtime. Let's explore the dynamic nature of variables with an example:
+
+# Dynamic Typing Example
+variable_dynamic = 10
+print("Initially, variable_dynamic:", variable_dynamic, "and its type:", type(variable_dynamic))
+
+# Changing the type of the variable
+variable_dynamic = "Hello, Python!"
+print("After changing, variable_dynamic:", variable_dynamic, "and its type:", type(variable_dynamic))

@@ -1,0 +1,6 @@
+Yes, you can use the underscore (_) as a variable name in Python. It is a valid identifier, and it is often used in various contexts, such as in loops where you don't need the loop variable, or as a placeholder for a variable that you don't intend to use.
+
+Here's an example:
+
+_ = 10
+print(_)  # Outputs: 10

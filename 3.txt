@@ -1,0 +1,1 @@
+In Python, we can use a string as a variable name, but it's not a common or recommended practice. Variable names in Python are typically identifiers, and they follow specific rules. Identifiers must start with a letter (a-z, A-Z) or an underscore (_), followed by letters, digits (0-9), or underscores.

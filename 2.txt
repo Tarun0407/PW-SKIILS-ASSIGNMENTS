@@ -1,0 +1,1 @@
+If you attempt to declare a variable with a name that is a reserved keyword in Python, you will get a SyntaxError. Python's keywords are reserved for specific purposes and cannot be used as variable names. 
